@@ -1,0 +1,13 @@
+Usage Instructions:
+Clone the repository:
+git clone https://github.com/Goodie323/pest-classifier.git
+
+Install the required dependencies:
+
+  pip install -r requirements.txt
+
+Run the Streamlit app:
+
+
+streamlit run app.py
+Upload an image and view the classification result.
